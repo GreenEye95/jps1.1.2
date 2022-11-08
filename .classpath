@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/components/customer/src"/>
+	<classpathentry kind="src" path="src/components/inventory/src"/>
+	<classpathentry kind="src" path="src/components/mail/src"/>
+	<classpathentry kind="src" path="src/components/personalization/src"/>
+	<classpathentry kind="src" path="src/components/shoppingcart/src"/>
+	<classpathentry kind="src" path="src/components/signon/src"/>
+	<classpathentry kind="src" path="src/components/util/tracer/src"/>
+	<classpathentry kind="src" path="src/miniapps/mailerapp/src"/>
+	<classpathentry kind="src" path="src/petstore/src"/>
+	<classpathentry kind="src" path="src/petstoreadmin/src"/>
+	<classpathentry kind="src" path="src/petstoreadmin/staroffice"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Karim/Downloads/Compressed/javapetstore-2.0-ea5/lib/bp-ui-5.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Karim/Downloads/Compressed/javapetstore-2.0-ea5/lib/commons-fileupload-1.1.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Karim/Downloads/Compressed/javapetstore-2.0-ea5/lib/commons-io-1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Karim/Downloads/Compressed/javapetstore-2.0-ea5/lib/commons-logging-1.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Karim/Downloads/Compressed/javapetstore-2.0-ea5/lib/ejb3-persistence.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Karim/Downloads/Compressed/javapetstore-2.0-ea5/lib/jdom.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Karim/Downloads/Compressed/javapetstore-2.0-ea5/lib/jsf-api.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Karim/Downloads/Compressed/javapetstore-2.0-ea5/lib/jta.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Karim/Downloads/Compressed/javapetstore-2.0-ea5/lib/lucene-core-2.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Karim/Downloads/Compressed/javapetstore-2.0-ea5/lib/rome-0.8.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Karim/Downloads/Compressed/javapetstore-2.0-ea5/lib/rome-fetcher-0.7.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Karim/Downloads/Compressed/javapetstore-2.0-ea5/lib/servlet2.5-jsp2.1-api.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Karim/Downloads/Compressed/javapetstore-2.0-ea5/lib/shale-remoting.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Karim/Downloads/Compressed/jbossall-client.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Karim/Downloads/Compressed/jboss-rmi-api_1.0_spec-1.0.6.Final.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Karim/Downloads/Compressed/w3c-dom.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/lib/ant/lib/ant.jar"/>
+	<classpathentry kind="lib" path="src/lib/ant/lib/xml.jar"/>
+	<classpathentry kind="lib" path="src/miniapps/mailerapp/build/mailerappEjb.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
